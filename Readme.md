@@ -8,3 +8,5 @@
 - There is a lot more but there is no point of going into the detail, for that you can go through the code.
 - I enjoyed making it as I gave practical life to my knowledge and learnings, was a bit tiring tho.
 - Feel free to use the code.
+
+### Deployed with heroku, the link to the app: https://peaceful-brook-92247.herokuapp.com/
