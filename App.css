@@ -1,0 +1,97 @@
+body{
+    font-family: comic sans ms;
+}
+
+.icon_image{
+    height: 50px;
+}
+
+.form_login {
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+    border-color: beige;
+}
+
+.login_heading{
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.signup_link:hover {
+    text-decoration: none;
+}
+
+.about_para{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.about_heading{
+    text-align: center;
+}
+
+.about_link:hover {
+    text-decoration: none;
+}
+
+.meme_images {
+    width: 320px;
+}
+
+.homepage_twitter{
+    padding-left: 370px;
+}
+
+.homepage_about{
+    padding-left: 405px;
+}
+
+.homepage_navbar{
+    color: white;
+    font-size: 20px;
+}
+
+.homepage_twitter_login_signup_about {
+    padding-left: 520px;
+}
+
+.profile_tweets {
+    width: 60%;
+    font-size: 23px;
+    margin-right: 20px;  
+}
+
+
+.tweets_list {
+    list-style: none;
+    margin-left: -50px;
+    margin-top: -40px;
+
+}
+
+.tweet_list {
+    padding-top: 10px;
+    color: blue;
+}
+
+.tweet_date {
+    color: black;
+    font-size: 11px;
+}
+
+.the_profile_page {
+    font-size: 32px;
+    padding-left: 32px;
+    padding-top: 23px;
+}
+
+.the_profile_pagee {
+    font-size: 32px;
+    margin-top: 23px;
+}
+
+
