@@ -1,4 +1,4 @@
-### A Full-Stack MERN Stack Fake-Twitter clone of the Real twitter which is awesome.
+### A Full-Stack MERN Fake-Twitter clone of the Real twitter which is awesome.
 - Workflow:
 - Created the complete front-end using react.js first with all the components required and connected them using react-router-dom.
 - First created the basic express erver then created the Schema's for storing tweets and user information and connecting it to MongoDb Atlas and storing them in the database.
